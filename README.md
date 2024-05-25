@@ -63,8 +63,10 @@ Data Analysis Comparison between the functions of Power Query and PySpark
 
 ![image](https://github.com/rivthebest/powerquery_pyspark/assets/11970473/50375836-8d04-490f-a2a1-bd8c5d5021c7)
 
+##### Likewise the others
+![image](https://github.com/rivthebest/powerquery_pyspark/assets/11970473/73ac4246-4e4a-4364-a9df-c6d7b401812f)
 
-
+![image](https://github.com/rivthebest/powerquery_pyspark/assets/11970473/18139614-a6c3-4c86-886a-fe8bbc824084)
 
 
 
